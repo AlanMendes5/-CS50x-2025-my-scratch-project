@@ -1,0 +1,10 @@
+---
+name: " CS50x 2025 - catRun"
+about: my first scratch project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+In my Scratch project, I simply implemented a classic running and coin-collecting game. Just press the green flag to start running and jump (by pressing the space key) to avoid obstacles and collect coins.
